@@ -1,0 +1,83 @@
+---
+# title: "Capacitación en R y herramientas de productividad"
+# author: "Abril 2021"
+format:
+  revealjs:
+    auto-stretch: false
+    margin: 0
+    slide-number: true
+    scrollable: true
+    preview-links: auto
+    logo: imagenes/logo_portada2.png
+    css: ine_quarto_styles.css
+    # footer: <https://quarto.org>
+---
+
+# 
+<img src="imagenes/logo_portada2.png" width="20%"/>
+
+[**Inducción equipo ciencia de datos**]{.big-par .center-justified}
+
+[**Colaboración encuestas económicas**]{.big-par .center-justified}
+
+[**Octubre 2023**]{.big-par .center-justified}
+
+## Motivación
+
+Apoyo en ciencia de datos en el Departamento de Estadísticas Económicas (DEE) 
+
+. . .
+
+**Algunos productos del DEE **
+
+:::{.medium-par}
+- Comercio
+- Servicios
+- Supermercados
+- Industria manufacturera 
+- Minería
+- Entre otros
+:::
+
+## Colaboración
+
+**Trabajo de corto plazo**
+
+:::{.fragment .medium-par}
+- Sistema de creación de tabulados
+- Revisión de código
+:::
+
+. . .
+
+**Trabajo mediano plazo**
+
+:::{.fragment .medium-par}
+- Modelos de clasificación
+- Explotación de registros administrativos 
+- Nuevas fuentes de producción estadística
+  - telefonía celular
+  - datos web
+  - satélites
+
+:::
+
+. . .
+
+[**Necesitamos investigar sobre los productos que publican**]{.center}
+
+## Responsables
+
+Hugo y Loreto
+
+Se requiere creatividad y curiosidad por entender el mundo de las estadísticas económicas
+
+# 
+<img src="imagenes/logo_portada2.png" width="20%"/>
+
+[**Inducción equipo ciencia de datos**]{.big-par .center-justified}
+
+[**Colaboración encuestas económicas**]{.big-par .center-justified}
+
+[**Octubre 2023**]{.big-par .center-justified}
+
