@@ -39,12 +39,34 @@ Apoyo en ciencia de datos en el Departamento de Estadísticas Económicas (DEE)
 - Entre otros
 :::
 
+## Estado actual
+
+Hace pocos días tenemos acceso a toda la información
+
+. . .
+
+Estamos digiriendo y analizando el material
+
+. . .
+
+Próxima semana tenemos una reunión interna para aterrizar ideas
+
+. . .
+
+Impresión inicial: trabajo de buena calidad de un analista
+
+. . .
+
+[**¿Cómo usamos ese trabajo y socializamos el conocimiento?**]{.center}
+
+
 ## Colaboración
 
 **Trabajo de corto plazo**
 
 :::{.fragment .medium-par}
 - Sistema de creación de tabulados
+- Apoyo en prácticas que apoyen la reproducibilidad
 - Revisión de código
 :::
 
